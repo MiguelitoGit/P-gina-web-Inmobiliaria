@@ -21,6 +21,7 @@
     <div class="content">
         <div class="info">
             <h1>Bienvenido a Mi Sitio Web</h1>
+            <h2>asdasdasdas</h2>
             <p>Este es un texto de muestra para demostrar el diseño.</p>
         </div>
     </div>
