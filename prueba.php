@@ -6,6 +6,7 @@
     <title>Página Estilizada con Navbar y Modal</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <nav class="navbar">
         <div class="logo">Mi Sitio Web</div>
@@ -48,6 +49,7 @@
                 <input type="password" id="password" name="password" placeholder="Contraseña">
                 <button type="submit">Iniciar Sesión</button>
                 <p>¿No tienes una cuenta? <a href="#">Regístrate</a></p>
+                <p>asdasdas</p>
             </form>
         </div>
     </div>
